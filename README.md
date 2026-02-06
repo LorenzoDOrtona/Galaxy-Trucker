@@ -117,10 +117,17 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 📢 Distribution / Legal Notice
 
-This project was developed by students as part of the Software Engineering course at Politecnico di Milano (Academic Year 2024–2025).  
-The original game is distributed by **Cranio Creations**.
+This project was developed by students as part of the Software Engineering 
+course at Politecnico di Milano (Academic Year 2024–2025).  
+The original board game **Galaxy Trucker** is owned and distributed by 
+**Cranio Creations**.
 
-**Note:** For copyright reasons, the graphical assets included in this repository have been modified and do not correspond to the official game version.  
-The MIT License applies **only to the code written by the students**, not to the original game's assets.
+**⚠️ Copyright Notice:** For copyright reasons, this repository does NOT 
+contain the official game's graphical assets. All images and graphics included 
+are simplified placeholders created solely for educational demonstration purposes.
+
+The MIT License applies **only to the source code written by the students**, 
+not to the Galaxy Trucker game design, rules, or any intellectual property 
+owned by Cranio Creations.
 
 ---
