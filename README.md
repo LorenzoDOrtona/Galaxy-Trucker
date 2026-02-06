@@ -115,8 +115,6 @@ java -jar IS25-AM05-1.0-SNAPSHOT-client-<architecture>.jar <IP> <method> <interf
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
-
 ## 📢 Distribution / Legal Notice
 
 This project was developed by students as part of the Software Engineering course at Politecnico di Milano (Academic Year 2024–2025).  
