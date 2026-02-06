@@ -57,8 +57,6 @@ Galaxy Trucker is a Java-based implementation of the popular board game, develop
 
 > **Legend:** ✅ Implemented • ⛔ Not implemented • ⚠️ In progress
 
----
-
 ## 📥 Installation & Execution
 
 ### Prerequisites
@@ -129,5 +127,3 @@ are simplified placeholders created solely for educational demonstration purpose
 The MIT License applies **only to the source code written by the students**, 
 not to the Galaxy Trucker game design, rules, or any intellectual property 
 owned by Cranio Creations.
-
----
